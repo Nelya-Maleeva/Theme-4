@@ -8,5 +8,11 @@ namespace _3103
         {
             Console.WriteLine("Hello World NELYA!");
         }
+        public void Test ()
+        {double a = 5;
+        double b = 4;
+        double c = 2;
+        double d = (a + b) / c;
+        Console.WriteLine(d);}
     }
 }
