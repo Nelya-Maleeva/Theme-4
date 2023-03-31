@@ -17,4 +17,11 @@ namespace _3103
         Console.WriteLine($"quotient: {d}");
 Console.WriteLine($"remainder: {e}");}
 }
+        public void Test ()
+        {double a = 5;
+        double b = 4;
+        double c = 2;
+        double d = (a + b) / c;
+        Console.WriteLine(d);}
+    }
 }
