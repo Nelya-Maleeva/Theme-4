@@ -105,7 +105,7 @@ namespace _411
             Employee[] employees = new Employee[]
             {
             new SalesPerson("Amanda", 5000, 90),
-            new Manager("Eva", 6000, 120),
+            new Manager("Eva", 6000, 150),
             new Employee("Max", 4000)
             };
 

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ YOUTUBE1", "DZ YOUTUBE\DZ YOUTUBE1.csproj", "{EBB4238E-1F6D-4C01-9DEC-436D81FDF211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ YOUTUBE2", "DZ 2\DZ YOUTUBE2.csproj", "{955C85EC-4248-422B-95E1-CB157D4FE134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB4238E-1F6D-4C01-9DEC-436D81FDF211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB4238E-1F6D-4C01-9DEC-436D81FDF211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB4238E-1F6D-4C01-9DEC-436D81FDF211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB4238E-1F6D-4C01-9DEC-436D81FDF211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955C85EC-4248-422B-95E1-CB157D4FE134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955C85EC-4248-422B-95E1-CB157D4FE134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955C85EC-4248-422B-95E1-CB157D4FE134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955C85EC-4248-422B-95E1-CB157D4FE134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D54119-6875-48DD-A400-44B44EB465CD}
+	EndGlobalSection
+EndGlobal
